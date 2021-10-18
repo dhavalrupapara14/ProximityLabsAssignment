@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProximityLabsAssignment</string>
+    <string name="air_quality_index">Air Quality Index (AQI)</string>
+</resources>
