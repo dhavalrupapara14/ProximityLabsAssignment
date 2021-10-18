@@ -19,3 +19,4 @@ MainActivity -> MainViewModel -> MainRepository -> WebServicesProvider -> Socket
 7. This way every new message gets updated in the recycler view.
 8. When activity is closed, we close the websocket and channel.
 
+Time taken for this app is 1 day.
